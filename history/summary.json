@@ -76,9 +76,9 @@
     "url": "$EU_SM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -88,6 +88,7 @@
     "timeMonth": 404,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2024-08-28": 0,
       "2024-08-05": 8
     }
   },
@@ -96,9 +97,9 @@
     "url": "$EU_SM_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -108,6 +109,7 @@
     "timeMonth": 404,
     "timeYear": 419,
     "dailyMinutesDown": {
+      "2024-08-28": 0,
       "2024-08-05": 8
     }
   },
@@ -116,9 +118,9 @@
     "url": "$EU_SM_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -128,6 +130,7 @@
     "timeMonth": 371,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2024-08-28": 0,
       "2024-08-05": 8
     }
   },
@@ -136,9 +139,9 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -148,6 +151,7 @@
     "timeMonth": 385,
     "timeYear": 407,
     "dailyMinutesDown": {
+      "2024-08-28": 0,
       "2024-08-05": 8
     }
   }
