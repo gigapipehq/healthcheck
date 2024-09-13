@@ -1,7 +1,7 @@
 url: $US_3C_API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-13T19:02:34.472Z
+status: up
+code: 200
+responseTime: 228
+lastUpdated: 2024-09-13T19:09:55.956Z
 startTime: 2024-07-11T16:50:21.815Z
 generator: Upptime <https://github.com/upptime/upptime>
