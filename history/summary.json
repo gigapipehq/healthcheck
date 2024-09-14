@@ -4,10 +4,10 @@
     "url": "$US_3C_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-3-c-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 250,
@@ -16,6 +16,7 @@
     "timeMonth": 244,
     "timeYear": 250,
     "dailyMinutesDown": {
+      "2024-09-14": 2,
       "2024-09-13": 12
     }
   },
@@ -24,10 +25,10 @@
     "url": "$US_3C_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-3-c-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 239,
@@ -36,6 +37,7 @@
     "timeMonth": 238,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2024-09-14": 1,
       "2024-09-13": 11
     }
   },
@@ -44,10 +46,10 @@
     "url": "$US_3C_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-3-c-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 237,
@@ -56,6 +58,7 @@
     "timeMonth": 235,
     "timeYear": 237,
     "dailyMinutesDown": {
+      "2024-09-14": 1,
       "2024-09-13": 10
     }
   },
@@ -64,7 +67,7 @@
     "url": "$US_3C_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-3-c-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "99.35%",
     "uptimeWeek": "99.91%",
@@ -76,6 +79,7 @@
     "timeMonth": 218,
     "timeYear": 217,
     "dailyMinutesDown": {
+      "2024-09-14": 0,
       "2024-09-13": 9
     }
   },
