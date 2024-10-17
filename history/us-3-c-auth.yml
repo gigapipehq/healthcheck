@@ -1,7 +1,7 @@
 url: $US_3C_AUTH
-status: down
-code: 502
-responseTime: 497
-lastUpdated: 2024-10-17T21:52:00.562Z
+status: up
+code: 200
+responseTime: 7497
+lastUpdated: 2024-10-17T21:57:42.564Z
 startTime: 2024-07-11T16:50:22.361Z
 generator: Upptime <https://github.com/upptime/upptime>
