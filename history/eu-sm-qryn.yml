@@ -1,7 +1,7 @@
 url: $EU_SM_QRYN
-status: down
-code: 502
-responseTime: 18949
-lastUpdated: 2025-02-24T21:29:23.258Z
+status: up
+code: 401
+responseTime: 533
+lastUpdated: 2025-02-24T21:35:02.289Z
 startTime: 2024-07-11T16:50:25.200Z
 generator: Upptime <https://github.com/upptime/upptime>
