@@ -1,7 +1,7 @@
 url: $US_3C_QRYN
-status: down
-code: 502
-responseTime: 17388
-lastUpdated: 2025-04-15T15:56:33.418Z
+status: up
+code: 401
+responseTime: 323
+lastUpdated: 2025-04-15T17:20:05.403Z
 startTime: 2024-07-11T16:50:22.980Z
 generator: Upptime <https://github.com/upptime/upptime>
