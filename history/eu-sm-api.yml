@@ -1,7 +1,7 @@
 url: $EU_SM_API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-15T18:39:02.453Z
+status: up
+code: 200
+responseTime: 351
+lastUpdated: 2025-07-15T18:50:48.018Z
 startTime: 2024-07-11T16:50:23.958Z
 generator: Upptime <https://github.com/upptime/upptime>
