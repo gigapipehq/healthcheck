@@ -127,10 +127,10 @@
     "url": "$EU_SM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.27%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "99.84%",
     "time": 474,
@@ -174,7 +174,7 @@
       "2025-09-10": 51,
       "2025-09-09": 27,
       "2025-09-08": 19,
-      "2025-09-07": 13
+      "2025-09-07": 5
     }
   },
   {
@@ -182,10 +182,10 @@
     "url": "$EU_SM_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.20%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.84%",
     "time": 448,
@@ -230,7 +230,7 @@
       "2025-09-08": 26,
       "2025-09-07": 50,
       "2025-09-06": 24,
-      "2025-09-05": 36
+      "2025-09-05": 29
     }
   },
   {
@@ -238,10 +238,10 @@
     "url": "$EU_SM_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "99.02%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "99.01%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.84%",
     "time": 475,
@@ -288,7 +288,7 @@
       "2025-09-08": 26,
       "2025-09-07": 5,
       "2025-09-06": 14,
-      "2025-09-05": 32
+      "2025-09-05": 25
     }
   },
   {
@@ -296,10 +296,10 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "98.42%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "98.41%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "99.84%",
     "time": 440,
@@ -308,7 +308,7 @@
     "timeMonth": 438,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-10-16": 34,
+      "2025-10-16": 35,
       "2025-10-15": 20,
       "2025-10-14": 12,
       "2025-10-13": 39,
@@ -345,7 +345,7 @@
       "2025-09-10": 37,
       "2025-09-09": 28,
       "2025-09-08": 19,
-      "2025-09-07": 11
+      "2025-09-07": 6
     }
   }
 ]
