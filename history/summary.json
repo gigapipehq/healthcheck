@@ -125,18 +125,19 @@
     "url": "$EU_SM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.07%",
+    "uptimeDay": "99.59%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "99.84%",
     "time": 472,
-    "timeDay": 409,
+    "timeDay": 382,
     "timeWeek": 426,
     "timeMonth": 443,
     "timeYear": 477,
     "dailyMinutesDown": {
+      "2025-10-22": 0,
       "2025-10-21": 14,
       "2025-10-20": 37,
       "2025-10-19": 30,
@@ -172,7 +173,7 @@
       "2025-09-14": 15,
       "2025-09-13": 22,
       "2025-09-12": 12,
-      "2025-09-11": 21
+      "2025-09-11": 15
     }
   },
   {
@@ -182,12 +183,12 @@
     "slug": "eu-sm-auth",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.09%",
+    "uptimeDay": "99.64%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.84%",
     "time": 448,
-    "timeDay": 410,
+    "timeDay": 376,
     "timeWeek": 451,
     "timeMonth": 442,
     "timeYear": 450,
@@ -237,18 +238,19 @@
     "url": "$EU_SM_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "99.21%",
     "uptimeWeek": "98.73%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.84%",
     "time": 473,
-    "timeDay": 447,
+    "timeDay": 433,
     "timeWeek": 430,
     "timeMonth": 435,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2025-10-22": 0,
       "2025-10-21": 19,
       "2025-10-20": 19,
       "2025-10-19": 31,
@@ -287,8 +289,7 @@
       "2025-09-13": 5,
       "2025-09-12": 6,
       "2025-09-11": 17,
-      "2025-09-10": 51,
-      "2025-09-09": 9
+      "2025-09-10": 51
     }
   },
   {
@@ -296,18 +297,19 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.55%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.54%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "99.84%",
     "time": 440,
-    "timeDay": 440,
+    "timeDay": 398,
     "timeWeek": 430,
     "timeMonth": 432,
     "timeYear": 447,
     "dailyMinutesDown": {
+      "2025-10-22": 1,
       "2025-10-21": 8,
       "2025-10-20": 37,
       "2025-10-19": 25,
@@ -345,7 +347,7 @@
       "2025-09-14": 6,
       "2025-09-13": 22,
       "2025-09-12": 6,
-      "2025-09-11": 21
+      "2025-09-11": 15
     }
   }
 ]
