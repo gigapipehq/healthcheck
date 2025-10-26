@@ -125,9 +125,9 @@
     "url": "$EU_SM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.41%",
+    "uptimeDay": "99.38%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.84%",
@@ -173,8 +173,7 @@
       "2025-09-17": 19,
       "2025-09-15": 9,
       "2025-09-14": 15,
-      "2025-09-13": 22,
-      "2025-09-12": 6
+      "2025-09-13": 22
     }
   },
   {
@@ -182,12 +181,12 @@
     "url": "$EU_SM_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "98.97%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "98.96%",
     "uptimeMonth": "98.73%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 448,
     "timeDay": 467,
     "timeWeek": 448,
@@ -233,7 +232,7 @@
       "2025-09-14": 15,
       "2025-09-13": 22,
       "2025-09-11": 6,
-      "2025-09-10": 45
+      "2025-09-10": 16
     }
   },
   {
@@ -241,9 +240,9 @@
     "url": "$EU_SM_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.41%",
+    "uptimeDay": "99.38%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.85%",
@@ -294,8 +293,7 @@
       "2025-09-14": 7,
       "2025-09-13": 5,
       "2025-09-12": 6,
-      "2025-09-11": 17,
-      "2025-09-10": 6
+      "2025-09-11": 17
     }
   },
   {
@@ -303,12 +301,12 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "98.82%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "98.49%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 440,
     "timeDay": 392,
     "timeWeek": 436,
@@ -353,8 +351,7 @@
       "2025-09-18": 26,
       "2025-09-17": 15,
       "2025-09-15": 11,
-      "2025-09-14": 6,
-      "2025-09-13": 12
+      "2025-09-14": 6
     }
   }
 ]
