@@ -125,16 +125,16 @@
     "url": "$EU_SM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.25%",
+    "uptimeDay": "97.94%",
     "uptimeWeek": "98.89%",
-    "uptimeMonth": "98.62%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "99.84%",
     "time": 473,
-    "timeDay": 532,
+    "timeDay": 509,
     "timeWeek": 485,
-    "timeMonth": 453,
+    "timeMonth": 455,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2025-10-29": 29,
@@ -172,7 +172,7 @@
       "2025-09-21": 14,
       "2025-09-20": 16,
       "2025-09-19": 23,
-      "2025-09-18": 26
+      "2025-09-18": 18
     }
   },
   {
@@ -180,17 +180,17 @@
     "url": "$EU_SM_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "99.84%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "99.85%",
     "time": 449,
-    "timeDay": 507,
+    "timeDay": 511,
     "timeWeek": 476,
-    "timeMonth": 453,
-    "timeYear": 450,
+    "timeMonth": 459,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2025-10-29": 14,
       "2025-10-28": 21,
@@ -230,7 +230,7 @@
       "2025-09-20": 26,
       "2025-09-19": 6,
       "2025-09-18": 16,
-      "2025-09-17": 25
+      "2025-09-17": 20
     }
   },
   {
@@ -238,16 +238,16 @@
     "url": "$EU_SM_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.85%",
     "time": 473,
     "timeDay": 473,
     "timeWeek": 466,
-    "timeMonth": 441,
+    "timeMonth": 445,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-10-29": 29,
@@ -288,8 +288,7 @@
       "2025-09-21": 14,
       "2025-09-20": 20,
       "2025-09-19": 14,
-      "2025-09-18": 18,
-      "2025-09-17": 6
+      "2025-09-18": 18
     }
   },
   {
@@ -299,14 +298,14 @@
     "slug": "eu-sm-app",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.31%",
+    "uptimeDay": "99.02%",
     "uptimeWeek": "99.07%",
-    "uptimeMonth": "98.51%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.84%",
     "time": 441,
-    "timeDay": 589,
+    "timeDay": 569,
     "timeWeek": 476,
-    "timeMonth": 439,
+    "timeMonth": 442,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2025-10-29": 14,
