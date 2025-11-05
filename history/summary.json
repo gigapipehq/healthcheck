@@ -121,16 +121,16 @@
     "url": "$EU_SM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-api",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "99.84%",
     "time": 471,
     "timeDay": 402,
     "timeWeek": 401,
-    "timeMonth": 441,
+    "timeMonth": 442,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-11-05": 22,
@@ -169,7 +169,7 @@
       "2025-09-23": 10,
       "2025-09-22": 19,
       "2025-09-21": 14,
-      "2025-09-20": 11
+      "2025-09-20": 5
     }
   },
   {
@@ -181,12 +181,12 @@
     "uptime": "99.88%",
     "uptimeDay": "99.39%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "98.99%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.84%",
     "time": 448,
     "timeDay": 388,
     "timeWeek": 416,
-    "timeMonth": 446,
+    "timeMonth": 447,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2025-11-05": 9,
@@ -241,7 +241,7 @@
     "uptime": "99.88%",
     "uptimeDay": "99.10%",
     "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.76%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "99.84%",
     "time": 471,
     "timeDay": 318,
@@ -296,18 +296,19 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "98.87%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "99.84%",
     "time": 440,
     "timeDay": 321,
     "timeWeek": 372,
-    "timeMonth": 424,
+    "timeMonth": 426,
     "timeYear": 447,
     "dailyMinutesDown": {
+      "2025-11-05": 1,
       "2025-11-03": 7,
       "2025-11-01": 7,
       "2025-10-30": 20,
@@ -347,7 +348,7 @@
       "2025-09-23": 17,
       "2025-09-22": 25,
       "2025-09-21": 9,
-      "2025-09-20": 26
+      "2025-09-20": 16
     }
   }
 ]
