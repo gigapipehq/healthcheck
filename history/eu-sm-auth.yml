@@ -1,7 +1,7 @@
 url: $EU_SM_AUTH
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-10T16:08:27.103Z
+status: up
+code: 200
+responseTime: 517
+lastUpdated: 2025-11-10T16:19:21.561Z
 startTime: 2024-07-11T16:50:24.520Z
 generator: Upptime <https://github.com/upptime/upptime>
