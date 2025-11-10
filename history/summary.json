@@ -299,9 +299,9 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.24%",
+    "uptimeDay": "99.20%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.84%",
@@ -311,7 +311,7 @@
     "timeMonth": 433,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2025-11-10": 11,
+      "2025-11-10": 12,
       "2025-11-09": 15,
       "2025-11-08": 18,
       "2025-11-07": 6,
@@ -352,7 +352,7 @@
       "2025-09-27": 35,
       "2025-09-26": 6,
       "2025-09-25": 11,
-      "2025-09-24": 20
+      "2025-09-24": 7
     }
   }
 ]
