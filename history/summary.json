@@ -189,12 +189,12 @@
     "url": "$EU_SM_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.61%",
+    "uptimeDay": "99.58%",
     "uptimeWeek": "98.85%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 449,
     "timeDay": 455,
     "timeWeek": 399,
@@ -248,8 +248,7 @@
       "2025-10-02": 7,
       "2025-10-01": 16,
       "2025-09-30": 8,
-      "2025-09-29": 73,
-      "2025-09-28": 6
+      "2025-09-29": 73
     }
   },
   {
@@ -257,9 +256,9 @@
     "url": "$EU_SM_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-qryn",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.30%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.81%",
@@ -269,6 +268,7 @@
     "timeMonth": 442,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2025-12-04": 0,
       "2025-12-03": 19,
       "2025-12-02": 6,
       "2025-12-01": 16,
@@ -318,7 +318,7 @@
       "2025-10-06": 34,
       "2025-10-05": 11,
       "2025-10-04": 14,
-      "2025-10-03": 61
+      "2025-10-03": 24
     }
   },
   {
@@ -326,10 +326,10 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.83%",
     "time": 440,
@@ -338,6 +338,7 @@
     "timeMonth": 439,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2025-12-04": 1,
       "2025-12-03": 12,
       "2025-12-02": 14,
       "2025-12-01": 16,
@@ -385,7 +386,7 @@
       "2025-10-07": 12,
       "2025-10-06": 37,
       "2025-10-05": 36,
-      "2025-10-04": 14
+      "2025-10-04": 9
     }
   }
 ]
