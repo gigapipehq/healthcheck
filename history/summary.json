@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 291,
-    "timeDay": 342,
+    "timeDay": 233,
     "timeWeek": 315,
-    "timeMonth": 302,
+    "timeMonth": 298,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2025-12-05": 18,
@@ -42,9 +42,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 389,
-    "timeDay": 218,
-    "timeWeek": 323,
-    "timeMonth": 300,
+    "timeDay": 239,
+    "timeWeek": 322,
+    "timeMonth": 297,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-12-05": 16,
@@ -73,10 +73,10 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 299,
-    "timeDay": 390,
-    "timeWeek": 325,
-    "timeMonth": 308,
-    "timeYear": 313,
+    "timeDay": 95,
+    "timeWeek": 308,
+    "timeMonth": 300,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2025-12-05": 7,
       "2025-10-06": 12,
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 273,
-    "timeDay": 218,
-    "timeWeek": 254,
-    "timeMonth": 284,
+    "timeDay": 235,
+    "timeWeek": 252,
+    "timeMonth": 282,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2025-10-06": 12,
@@ -126,14 +126,14 @@
     "slug": "eu-sm-api",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.20%",
+    "uptimeDay": "99.16%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 469,
     "timeDay": 493,
-    "timeWeek": 447,
-    "timeMonth": 446,
+    "timeWeek": 444,
+    "timeMonth": 449,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2025-12-09": 12,
@@ -184,8 +184,7 @@
       "2025-10-11": 13,
       "2025-10-08": 48,
       "2025-10-06": 28,
-      "2025-10-05": 23,
-      "2025-10-04": 9
+      "2025-10-05": 23
     }
   },
   {
@@ -200,9 +199,9 @@
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.82%",
     "time": 448,
-    "timeDay": 478,
-    "timeWeek": 476,
-    "timeMonth": 447,
+    "timeDay": 474,
+    "timeWeek": 470,
+    "timeMonth": 449,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2025-12-09": 22,
@@ -264,15 +263,15 @@
     "slug": "eu-sm-qryn",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.81%",
     "time": 468,
-    "timeDay": 398,
-    "timeWeek": 436,
-    "timeMonth": 438,
-    "timeYear": 473,
+    "timeDay": 502,
+    "timeWeek": 441,
+    "timeMonth": 442,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2025-12-09": 18,
       "2025-12-07": 20,
@@ -324,8 +323,7 @@
       "2025-10-09": 5,
       "2025-10-08": 49,
       "2025-10-07": 18,
-      "2025-10-06": 34,
-      "2025-10-05": 6
+      "2025-10-06": 34
     }
   },
   {
@@ -335,14 +333,14 @@
     "slug": "eu-sm-app",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.83%",
     "time": 439,
-    "timeDay": 382,
-    "timeWeek": 403,
-    "timeMonth": 424,
+    "timeDay": 535,
+    "timeWeek": 414,
+    "timeMonth": 429,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2025-12-09": 10,
@@ -395,7 +393,7 @@
       "2025-10-08": 37,
       "2025-10-07": 12,
       "2025-10-06": 37,
-      "2025-10-05": 16
+      "2025-10-05": 10
     }
   }
 ]
