@@ -122,12 +122,12 @@
     "slug": "eu-sm-api",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.16%",
+    "uptimeDay": "99.59%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.84%",
     "time": 470,
-    "timeDay": 536,
+    "timeDay": 539,
     "timeWeek": 466,
     "timeMonth": 453,
     "timeYear": 478,
@@ -258,9 +258,9 @@
     "url": "$EU_SM_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.59%",
+    "uptimeDay": "99.56%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.81%",
@@ -270,6 +270,7 @@
     "timeMonth": 441,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2025-12-11": 0,
       "2025-12-10": 6,
       "2025-12-09": 18,
       "2025-12-07": 20,
@@ -321,7 +322,7 @@
       "2025-10-09": 5,
       "2025-10-08": 49,
       "2025-10-07": 18,
-      "2025-10-06": 29
+      "2025-10-06": 21
     }
   },
   {
