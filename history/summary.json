@@ -261,9 +261,9 @@
     "url": "$EU_SM_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.81%",
@@ -273,6 +273,7 @@
     "timeMonth": 453,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2025-12-29": 0,
       "2025-12-27": 24,
       "2025-12-26": 8,
       "2025-12-24": 9,
@@ -325,7 +326,7 @@
       "2025-10-22": 7,
       "2025-10-21": 19,
       "2025-10-20": 19,
-      "2025-10-19": 22
+      "2025-10-19": 16
     }
   },
   {
