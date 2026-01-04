@@ -116,11 +116,11 @@
     "url": "$EU_SM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "98.57%",
     "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.27%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.83%",
     "time": 473,
     "timeDay": 546,
@@ -184,8 +184,7 @@
       "2025-10-24": 18,
       "2025-10-22": 7,
       "2025-10-21": 14,
-      "2025-10-20": 37,
-      "2025-10-19": 10
+      "2025-10-20": 37
     }
   },
   {
@@ -197,7 +196,7 @@
     "uptime": "99.87%",
     "uptimeDay": "98.40%",
     "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.12%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.81%",
     "time": 453,
     "timeDay": 484,
@@ -264,14 +263,14 @@
     "url": "$EU_SM_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-qryn",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "97.17%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "97.52%",
     "uptimeWeek": "98.20%",
-    "uptimeMonth": "98.93%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "99.80%",
     "time": 467,
-    "timeDay": 421,
+    "timeDay": 417,
     "timeWeek": 445,
     "timeMonth": 450,
     "timeYear": 474,
@@ -327,7 +326,7 @@
       "2025-10-30": 61,
       "2025-10-29": 38,
       "2025-10-28": 18,
-      "2025-10-27": 15
+      "2025-10-27": 5
     }
   },
   {
@@ -335,19 +334,19 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.31%",
+    "uptimeDay": "97.27%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 441,
     "timeDay": 431,
     "timeWeek": 443,
     "timeMonth": 454,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2026-01-04": 29,
+      "2026-01-04": 30,
       "2026-01-03": 24,
       "2026-01-01": 6,
       "2025-12-31": 25,
@@ -403,7 +402,7 @@
       "2025-10-24": 18,
       "2025-10-22": 7,
       "2025-10-21": 8,
-      "2025-10-20": 37
+      "2025-10-20": 14
     }
   }
 ]
