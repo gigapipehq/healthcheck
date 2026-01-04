@@ -116,14 +116,14 @@
     "url": "$EU_SM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.19%",
+    "uptimeDay": "99.14%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.83%",
     "time": 474,
-    "timeDay": 442,
+    "timeDay": 497,
     "timeWeek": 467,
     "timeMonth": 478,
     "timeYear": 478,
@@ -185,7 +185,7 @@
       "2025-10-22": 7,
       "2025-10-21": 14,
       "2025-10-20": 37,
-      "2025-10-19": 15
+      "2025-10-19": 10
     }
   },
   {
@@ -193,14 +193,14 @@
     "url": "$EU_SM_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "97.99%",
+    "uptimeDay": "98.94%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.81%",
     "time": 453,
-    "timeDay": 448,
+    "timeDay": 489,
     "timeWeek": 507,
     "timeMonth": 480,
     "timeYear": 455,
@@ -256,7 +256,7 @@
       "2025-10-20": 37,
       "2025-10-19": 38,
       "2025-10-18": 6,
-      "2025-10-17": 11
+      "2025-10-17": 5
     }
   },
   {
@@ -264,14 +264,14 @@
     "url": "$EU_SM_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-qryn",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "96.77%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "97.71%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.80%",
     "time": 467,
-    "timeDay": 397,
+    "timeDay": 411,
     "timeWeek": 444,
     "timeMonth": 449,
     "timeYear": 474,
@@ -327,8 +327,7 @@
       "2025-10-30": 61,
       "2025-10-29": 38,
       "2025-10-28": 18,
-      "2025-10-27": 15,
-      "2025-10-26": 10
+      "2025-10-27": 15
     }
   },
   {
@@ -336,19 +335,19 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "98.71%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "98.70%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.82%",
     "time": 441,
-    "timeDay": 406,
+    "timeDay": 423,
     "timeWeek": 442,
     "timeMonth": 454,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2026-01-04": 21,
+      "2026-01-04": 22,
       "2026-01-03": 24,
       "2026-01-01": 6,
       "2025-12-31": 25,
@@ -404,8 +403,7 @@
       "2025-10-24": 18,
       "2025-10-22": 7,
       "2025-10-21": 8,
-      "2025-10-20": 37,
-      "2025-10-19": 10
+      "2025-10-20": 37
     }
   }
 ]
