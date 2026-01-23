@@ -1,7 +1,7 @@
 url: $EU_SM_APP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-23T19:57:27.827Z
+status: up
+code: 200
+responseTime: 338
+lastUpdated: 2026-01-23T20:06:15.399Z
 startTime: 2024-07-11T16:50:25.871Z
 generator: Upptime <https://github.com/upptime/upptime>
