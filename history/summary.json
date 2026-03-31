@@ -197,9 +197,9 @@
     "url": "$EU_SM_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "98.19%",
+    "uptimeDay": "98.16%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.65%",
@@ -209,6 +209,7 @@
     "timeMonth": 418,
     "timeYear": 454,
     "dailyMinutesDown": {
+      "2026-03-31": 0,
       "2026-03-30": 26,
       "2026-03-28": 11,
       "2026-03-19": 14,
@@ -268,8 +269,7 @@
       "2025-12-11": 12,
       "2025-12-09": 22,
       "2025-12-07": 19,
-      "2025-12-04": 11,
-      "2025-12-03": 7
+      "2025-12-04": 11
     }
   },
   {
@@ -355,9 +355,9 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.18%",
+    "uptimeDay": "98.15%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.62%",
@@ -367,6 +367,7 @@
     "timeMonth": 393,
     "timeYear": 439,
     "dailyMinutesDown": {
+      "2026-03-31": 1,
       "2026-03-30": 26,
       "2026-03-26": 24,
       "2026-03-22": 8,
@@ -435,8 +436,7 @@
       "2025-12-04": 5,
       "2025-12-03": 12,
       "2025-12-02": 14,
-      "2025-12-01": 16,
-      "2025-11-30": 6
+      "2025-12-01": 16
     }
   }
 ]
