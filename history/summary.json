@@ -97,9 +97,9 @@
     "url": "$EU_SM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.32%",
+    "uptimeDay": "98.30%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.61%",
@@ -109,6 +109,7 @@
     "timeMonth": 408,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2026-04-19": 0,
       "2026-04-18": 24,
       "2026-04-16": 21,
       "2026-04-15": 1,
@@ -181,7 +182,7 @@
       "2025-12-13": 18,
       "2025-12-12": 28,
       "2025-12-11": 11,
-      "2025-12-10": 12
+      "2025-12-10": 6
     }
   },
   {
@@ -189,18 +190,19 @@
     "url": "$EU_SM_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.22%",
-    "uptimeYear": "99.61%",
-    "time": 449,
+    "uptimeYear": "99.62%",
+    "time": 448,
     "timeDay": 475,
     "timeWeek": 411,
     "timeMonth": 396,
     "timeYear": 451,
     "dailyMinutesDown": {
+      "2026-04-19": 0,
       "2026-04-16": 21,
       "2026-04-15": 26,
       "2026-04-14": 16,
@@ -265,7 +267,7 @@
       "2025-12-18": 11,
       "2025-12-17": 30,
       "2025-12-15": 8,
-      "2025-12-13": 18
+      "2025-12-13": 7
     }
   },
   {
@@ -357,10 +359,10 @@
     "url": "$EU_SM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.59%",
     "time": 439,
@@ -369,6 +371,7 @@
     "timeMonth": 403,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2026-04-19": 0,
       "2026-04-16": 21,
       "2026-04-09": 29,
       "2026-04-07": 29,
@@ -437,8 +440,7 @@
       "2025-12-13": 18,
       "2025-12-12": 19,
       "2025-12-11": 12,
-      "2025-12-10": 6,
-      "2025-12-09": 0
+      "2025-12-10": 6
     }
   }
 ]
