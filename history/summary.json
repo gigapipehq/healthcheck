@@ -97,18 +97,19 @@
     "url": "$EU_SM_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 464,
     "timeDay": 333,
     "timeWeek": 350,
     "timeMonth": 408,
     "timeYear": 452,
     "dailyMinutesDown": {
+      "2026-05-25": 0,
       "2026-05-23": 21,
       "2026-05-09": 92,
       "2026-05-02": 20,
@@ -183,8 +184,7 @@
       "2025-12-17": 24,
       "2025-12-16": 7,
       "2025-12-15": 8,
-      "2025-12-14": 6,
-      "2025-12-13": 7
+      "2025-12-14": 6
     }
   },
   {
@@ -192,11 +192,11 @@
     "url": "$EU_SM_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eu-sm-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "53.00%",
+    "uptimeDay": "55.98%",
     "uptimeWeek": "83.70%",
-    "uptimeMonth": "95.90%",
+    "uptimeMonth": "95.89%",
     "uptimeYear": "99.27%",
     "time": 448,
     "timeDay": 334,
@@ -204,6 +204,7 @@
     "timeMonth": 425,
     "timeYear": 447,
     "dailyMinutesDown": {
+      "2026-05-25": 0,
       "2026-05-24": 711,
       "2026-05-23": 932,
       "2026-05-09": 72,
@@ -271,8 +272,7 @@
       "2025-12-25": 13,
       "2025-12-23": 5,
       "2025-12-21": 15,
-      "2025-12-20": 30,
-      "2025-12-19": 11
+      "2025-12-20": 30
     }
   },
   {
@@ -370,16 +370,16 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.13%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "99.09%",
+    "uptimeWeek": "75.70%",
+    "uptimeMonth": "93.97%",
+    "uptimeYear": "99.08%",
     "time": 433,
     "timeDay": 325,
     "timeWeek": 363,
     "timeMonth": 404,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2026-05-25": 34,
+      "2026-05-25": 78,
       "2026-05-24": 1440,
       "2026-05-23": 932,
       "2026-05-09": 92,
